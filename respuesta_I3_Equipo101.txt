@@ -8,3 +8,10 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge? No tuvimos 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido? Use "git checkout cuello" para ir a la rama, "notepad beta.txt" para editar los datos del archivo, "git commit" para agregar comentarios y finalmente "git push".
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git clone
+git checkout rama_x
+git pull
+modificar archivo
+git add .
+git commit -m
+git push
