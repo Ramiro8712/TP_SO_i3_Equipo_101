@@ -1,0 +1,13 @@
+Nombre: Paloma
+Apellido: Estevez
+IP: 192.168.56.1
+Hora: 11:30
+
+Nombre: Lucas
+Apellido: Contreras
+IP: 192.168.0.4
+Hora: 11:36
+
+Nombre: Ramiro
+Apellido: Cuello
+IP: 192.168.56.1
