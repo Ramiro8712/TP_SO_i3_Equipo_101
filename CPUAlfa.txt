@@ -1,0 +1,5 @@
+DeviceID Name                                            Caption                             MaxClockSpeed SocketDesign
+                                                                                                           ation
+-------- ----                                            -------                             ------------- ------------
+CPU0     AMD Ryzen 5 5600X 6-Core Processor              AMD64 Family 25 Model 33 Stepping 2 3701          AM4
+
