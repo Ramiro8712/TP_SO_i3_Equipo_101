@@ -1,0 +1,39 @@
+Nombre: Ramiro
+Apellido: Cuello
+Hora: 11:56. 
+Configuración IP de Windows
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::fb09:52f2:291c:5091%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:42b:11de:41db:893d:2e99:8f25
+   Dirección IPv6 . . . . . . . . . . : 2800:810:42b:11de:d8cd:3af8:1ad4:360d
+   Dirección IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:439e:4714:fb1a:23d3
+   Dirección IPv6 temporal. . . . . . : 2800:810:42b:11de:8d3d:1137:8774:fc1d
+   Dirección IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:8d3d:1137:8774:fc1d
+   Vínculo: dirección IPv6 local. . . : fe80::4f96:d7dd:fa3:a2b7%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.112
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::f66b:efff:feca:96ae%18
+                                       192.168.0.1
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
