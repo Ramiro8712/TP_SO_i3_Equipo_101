@@ -74,3 +74,17 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.238
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Nombre: Lucas
+Apellido: Contreras
+Hora: 12:08
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:425:dee:1176:c55:c02f:fae7
+   Dirección IPv6 . . . . . . . . . . : 2800:810:425:dee:ba9b:9c0b:5da8:9981
+   Dirección IPv6 temporal. . . . . . : 2800:810:425:dee:38fd:e739:6adb:5d27
+   Vínculo: dirección IPv6 local. . . : fe80::3e79:16d7:1a14:bcf9%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.4
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::22b8:2bff:fe33:25a9%16
+                                       192.168.0.1
